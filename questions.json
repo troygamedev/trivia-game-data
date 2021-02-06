@@ -8,5 +8,10 @@
         "question": "What's 4 times 9",
         "choices": ["12", "42", "45"],
         "answer": "36"
+    },
+    {
+        "question": "Who was the 4th President of the United States?",
+        "choices": ["John Quincy Adams", "John Adams", "Thomas Jefferson"],
+        "answer": "James Madison"
     }
 ]
