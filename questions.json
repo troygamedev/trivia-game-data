@@ -1,12 +1,12 @@
 {
     "list" : [
         {
-            "question": "What's 9 + 10",
+            "question": "What's 9 + 10?",
             "choices": ["21", "30", "18"],
             "answer": "19"
         },
         {
-            "question": "What's 4 times 9",
+            "question": "What's 4 times 9?",
             "choices": ["12", "42", "45"],
             "answer": "36"
         },
