@@ -3,4 +3,5 @@ data for trivia-game
 
 ## Contributors
 Ajay Liu
+
 Talha Ahmed
