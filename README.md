@@ -1,0 +1,5 @@
+# trivia-game-data
+data for trivia-game
+
+## Contributors
+Ajay Liu
