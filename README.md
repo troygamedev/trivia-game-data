@@ -5,3 +5,5 @@ data for trivia-game
 Ajay Liu
 
 Talha Ahmed
+
+Ian Kim
