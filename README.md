@@ -5,3 +5,5 @@ data for trivia-game
 Ajay Liu
 
 Talha Ahmed
+
+Sean Oreta
