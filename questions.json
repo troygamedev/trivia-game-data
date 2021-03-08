@@ -21,7 +21,7 @@
             "answer": "dolphin" 
         },
         {
-            "question": "Who created the theory of relativity?".
+            "question": "Who created the theory of relativity?",
             "choices": ["Stephen Hawking", "Carl Sagan", "Neil Degrasse Tyson"],
             "answer": "Albert Einstein"
         },
