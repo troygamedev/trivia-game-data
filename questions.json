@@ -24,6 +24,11 @@
             "question": "Where is the capital of France?",
             "choices": ["Brazil","Normandy", "Versailles"],
             "answer": "Paris" 
+        }, 
+        {
+            "question": "Who created the theory of relativity?",
+            "choices": ["Stephen Hawking", "Carl Sagan", "Neil Degrasse Tyson"],
+            "answer": "Albert Einstein"
         }
     ]
 }
