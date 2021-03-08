@@ -19,5 +19,3 @@ Ronil Hora
 Reagan Hsu
 
 Logan D
-
-Your Name
