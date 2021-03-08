@@ -19,6 +19,11 @@
             "question": "Which of these is a mammal?",
             "choices": ["ant","frog", "shark"],
             "answer": "dolphin" 
-        }
+        },
+        {
+            "question": "Who created the theory of relativity?".
+            "choices": ["Stephen Hawking", "Carl Sagan", "Neil Degrasse Tyson"],
+            "answer": "Albert Einstein"
+        },
     ]
 }
