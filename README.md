@@ -1,6 +1,9 @@
 # trivia-game-data
 data for trivia-game
 
+## Link to the API endpoint
+https://troygamedev.github.io/trivia-game-data/questions.json
+
 ## Contributors
 Ajay Liu
 
