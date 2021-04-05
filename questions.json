@@ -30,5 +30,110 @@
             "choices": ["Stephen Hawking", "Carl Sagan", "Neil Degrasse Tyson"],
             "answer": "Albert Einstein"
         },
+        {
+            "question": "When was anime created",
+            "choices": ["1925", "1901", "1914"],
+            "answer": "1917"
+        },
+        {
+            "question": "Who is the president of game dev club?",
+            "choices": ["Ajay Liu", "Theo Sohn", "Ian Kim"],
+            "answer": "Talha Ahmed"
+        },
+        {
+            "question": "Do my parents care?",
+            "choices": ["Yes, they love and care for you.", "No. They hate you.", "Kinda."],
+            "answer": "There are no right answers."
+        },
+        {
+            "question": "Who is the most subscribed vtuber as of April 2021?",
+            "choices": ["Gawr Gura", "Nyanners", "Korone"],
+            "answer": "Kizuna Ai"
+        },
+        {
+            "question": "What was the third gender in ancient Japanese society?",
+            "choices": ["Seiki", "Washou", "Genpuku"],
+            "answer": "Wakashu"
+        },
+        {
+            "question": "Who is the most subscribed vtuber as of April 2021?",
+            "choices": ["Gawr Gura", "Nyanners", "Korone"],
+            "answer": "Kizuna Ai"
+        },
+        {
+            "question": "Who is the oldest living member of the Joestar family?",
+            "choices": ["Jotaro Kujo", "Jolyne Kujo", "Giorno Giovanna"],
+            "answer": "Joseph Joestar"
+        },        
+        {
+            "question": "What is the name of the 'give him to me mmmmm' weasel that shows up in Barbie Rapunzel",
+            "choices": ["Octo", "Ollie", "Herman"],
+            "answer": "Otto"
+        },
+        {
+            "question": "When was Covid first discovered?",
+            "choices": ["69420", "2018", "2020"],
+            "answer": "2019"
+        },
+        {
+            "question": "What is the average lowest frequency the human ear can detect",
+            "choices": ["0hz", "10hz", "40hz"],
+            "answer": "20hz"
+        },
+        {
+            "question": "Which minecraft mob has the farthest viewing distance",
+            "choices": ["blaze", "zombie", "skeleton"],
+            "answer": "enderman"
+        },
+        {
+            "question": "What is the minecraft block with the power to destroy anything",
+            "choices": ["TNT", "Bedrock", "berry bush"],
+            "answer": "Cactus"
+        },
+        {
+            "question": "Who is the main male playable character inn Minecraft?",
+            "choices": ["Satoru", "Alex", "Jesse"],
+            "answer": "Steve"
+        },
+        {
+            "question": "Which coutry consumes the most chocolate per capita",
+            "choices": ["Sweden", "France", "United States"],
+            "answer": "Switzerland"
+        },
+        {
+            "question": "Who won the 2018 AL MVP award?",
+            "choices": ["Alex Bregman", "Jose Ramirez", "Mike Trout"],
+            "answer": "Mookie Betts"
+        },
+        {
+            "question": "What was the first state?",
+            "choices": ["Delware", "New York", "California"],
+            "answer": "20hzamerica"
+        },
+        {
+            "question": "Which country makes the most coffee",
+            "choices": ["columbia", "indonesia", "china"],
+            "answer": "brazil"
+        },
+        {
+            "question": "What was the first ever Batman Game?",
+            "choices": ["Batman: Arkham Origins", "Batman: The Beginning", "Lego Batman"],
+            "answer": "Batman: The Video Game"
+        },
+        {
+            "question": "How fast is a cheetah while running",
+            "choices": ["20mph", "30mph", "40mph"],
+            "answer": "50mph"
+        },
+        {
+            "question": "What is blue in rgb",
+            "choices": ["#0000FF", "#00000F", "#6A5ACD","#7B68EE"],
+            "answer": "#0000FF"
+        },
+        {
+           "question": "What is the sum of all the numbers from 1 to 100?",
+           "choices": ["6969", "101", "1010"],
+           "answer": "5050"
+        }
     ]
 }

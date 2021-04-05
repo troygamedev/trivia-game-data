@@ -24,3 +24,19 @@ Reagan Hsu
 Logan D
 
 Owen Peng
+
+Sean Son
+
+Theo Sohn
+
+Nam Nguyen
+
+Christian Lee
+
+Ray An
+
+Andrew Park
+
+Matthew Chiasson
+
+Kyle Son
