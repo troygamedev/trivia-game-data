@@ -67,7 +67,7 @@
         },        
         {
             "question": "What is the name of the 'give him to me mmmmm' weasel that shows up in Barbie Rapunzel",
-            "choices": ["Octo", "Ollie", "Herman"],
+            "choices": ["Weasey", "Carl", "Herman"],
             "answer": "Otto"
         },
         {
@@ -94,6 +94,11 @@
             "question": "Who is the main male playable character inn Minecraft?",
             "choices": ["Satoru", "Alex", "Jesse"],
             "answer": "Steve"
+        },
+        {
+          "question": "What is the biggest animal in the world?",
+          "choices":["Mouse", "Your mom", "Elephant" ],
+          "answer": "Blue Whale"
         },
         {
             "question": "Which coutry consumes the most chocolate per capita",
@@ -134,6 +139,16 @@
            "question": "What is the sum of all the numbers from 1 to 100?",
            "choices": ["6969", "101", "1010"],
            "answer": "5050"
+        },
+        {
+           "question": "Who is the president of the Video Game Development Club?",
+           "choices": ["Dr. Mynster", "Ajay Liu", "Your Mother", "Joe Johnson"],
+           "answer": "Ajay Liu"
+        },
+        {
+           "question": "How old do you have to be to get a drivers permit in the US?",
+           "choices": ["16 years", "16 months", "15 months"],
+           "answer": "15 years"
         }
     ]
 }
