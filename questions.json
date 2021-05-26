@@ -36,16 +36,6 @@
             "answer": "1917"
         },
         {
-            "question": "Who is the president of game dev club?",
-            "choices": ["Ajay Liu", "Theo Sohn", "Ian Kim"],
-            "answer": "Talha Ahmed"
-        },
-        {
-            "question": "Do my parents care?",
-            "choices": ["Yes, they love and care for you.", "No. They hate you.", "Kinda."],
-            "answer": "There are no right answers."
-        },
-        {
             "question": "Who is the most subscribed vtuber as of April 2021?",
             "choices": ["Gawr Gura", "Nyanners", "Korone"],
             "answer": "Kizuna Ai"
@@ -54,11 +44,6 @@
             "question": "What was the third gender in ancient Japanese society?",
             "choices": ["Seiki", "Washou", "Genpuku"],
             "answer": "Wakashu"
-        },
-        {
-            "question": "Who is the most subscribed vtuber as of April 2021?",
-            "choices": ["Gawr Gura", "Nyanners", "Korone"],
-            "answer": "Kizuna Ai"
         },
         {
             "question": "Who is the oldest living member of the Joestar family?",
@@ -132,7 +117,7 @@
         },
         {
             "question": "What is blue in rgb",
-            "choices": ["#0000FF", "#00000F", "#6A5ACD","#7B68EE"],
+            "choices": ["#00FF00","#6A5ACD","#7B68EE"],
             "answer": "#0000FF"
         },
         {
@@ -142,7 +127,7 @@
         },
         {
            "question": "Who is the president of the Video Game Development Club?",
-           "choices": ["Dr. Mynster", "Ajay Liu", "Your Mother", "Joe Johnson"],
+           "choices": ["Dr. Mynster", "Your Mother", "Joe Johnson"],
            "answer": "Ajay Liu"
         },
         {
