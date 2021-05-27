@@ -1,16 +1,6 @@
 {
     "list" : [
         {
-            "question": "What's 9 + 10?",
-            "choices": ["21", "30", "18"],
-            "answer": "19"
-        },
-        {
-            "question": "What's 4 times 9?",
-            "choices": ["12", "42", "45"],
-            "answer": "36"
-        },
-        {
             "question": "Who was the 4th President of the United States?",
             "choices": ["John Quincy Adams", "John Adams", "Thomas Jefferson"],
             "answer": "James Madison"            
@@ -51,11 +41,6 @@
             "answer": "Joseph Joestar"
         },        
         {
-            "question": "What is the name of the 'give him to me mmmmm' weasel that shows up in Barbie Rapunzel",
-            "choices": ["Weasey", "Carl", "Herman"],
-            "answer": "Otto"
-        },
-        {
             "question": "When was Covid first discovered?",
             "choices": ["69420", "2018", "2020"],
             "answer": "2019"
@@ -71,18 +56,13 @@
             "answer": "enderman"
         },
         {
-            "question": "What is the minecraft block with the power to destroy anything",
-            "choices": ["TNT", "Bedrock", "berry bush"],
-            "answer": "Cactus"
-        },
-        {
             "question": "Who is the main male playable character inn Minecraft?",
             "choices": ["Satoru", "Alex", "Jesse"],
             "answer": "Steve"
         },
         {
           "question": "What is the biggest animal in the world?",
-          "choices":["Mouse", "Your mom", "Elephant" ],
+          "choices":["Mouse", "African White Rhino", "Elephant" ],
           "answer": "Blue Whale"
         },
         {
@@ -97,13 +77,13 @@
         },
         {
             "question": "What was the first state?",
-            "choices": ["Delware", "New York", "California"],
-            "answer": "20hzamerica"
+            "choices": ["Massachusetts", "New York", "California"],
+            "answer": "Delaware"
         },
         {
             "question": "Which country makes the most coffee",
-            "choices": ["columbia", "indonesia", "china"],
-            "answer": "brazil"
+            "choices": ["Columbia", "Indonesia", "China"],
+            "answer": "Brazil"
         },
         {
             "question": "What was the first ever Batman Game?",
@@ -126,14 +106,24 @@
            "answer": "5050"
         },
         {
-           "question": "Who is the president of the Video Game Development Club?",
-           "choices": ["Dr. Mynster", "Your Mother", "Joe Johnson"],
-           "answer": "Ajay Liu"
-        },
-        {
            "question": "How old do you have to be to get a drivers permit in the US?",
            "choices": ["16 years", "16 months", "15 months"],
            "answer": "15 years"
+        },
+        {
+           "question": "Which of the following has the highest melting point?",
+           "choices": ["Fe", "NaCl", "C6H12O6"],
+           "answer": "SiO2"
+        },
+        {
+           "question": "Which of the following has the highest melting point?",
+           "choices": ["Fe", "NaCl", "C6H12O6"],
+           "answer": "SiO2"  
+        },
+        {
+           "question": "Which of the following in NOT a city in Nebraska?",
+           "choices": ["Omaha", "Nebraska City", "Lincoln"],
+           "answer": "Kansas City"  
         }
     ]
 }
