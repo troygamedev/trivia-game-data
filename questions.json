@@ -7,8 +7,8 @@
         },
         { 
             "question": "Which of these is a mammal?",
-            "choices": ["ant","frog", "shark"],
-            "answer": "dolphin" 
+            "choices": ["Ant","Frog", "Shark"],
+            "answer": "Dolphin" 
         },
         { 
             "question": "Where is the capital of France?",
@@ -26,7 +26,7 @@
             "answer": "1917"
         },
         {
-            "question": "Who is the most subscribed vtuber as of April 2021?",
+            "question": "Who is the most subscribed VTuber as of April 2021?",
             "choices": ["Gawr Gura", "Nyanners", "Korone"],
             "answer": "Kizuna Ai"
         },
@@ -46,17 +46,17 @@
             "answer": "2019"
         },
         {
-            "question": "What is the average lowest frequency the human ear can detect",
+            "question": "What is the average lowest frequency the human ear can detect?",
             "choices": ["0hz", "10hz", "40hz"],
             "answer": "20hz"
         },
         {
-            "question": "Which minecraft mob has the farthest viewing distance",
-            "choices": ["blaze", "zombie", "skeleton"],
-            "answer": "enderman"
+            "question": "Which Minecraft mob has the farthest viewing distance?",
+            "choices": ["Blaze", "Zombie", "Skeleton"],
+            "answer": "Enderman"
         },
         {
-            "question": "Who is the main male playable character inn Minecraft?",
+            "question": "Who is the main male playable character in Minecraft?",
             "choices": ["Satoru", "Alex", "Jesse"],
             "answer": "Steve"
         },
@@ -66,22 +66,22 @@
           "answer": "Blue Whale"
         },
         {
-            "question": "Which coutry consumes the most chocolate per capita",
+            "question": "Which country consumes the most chocolate per capita?",
             "choices": ["Sweden", "France", "United States"],
             "answer": "Switzerland"
         },
         {
-            "question": "Who won the 2018 AL MVP award?",
+            "question": "Who won the 2018 American League MVP award?",
             "choices": ["Alex Bregman", "Jose Ramirez", "Mike Trout"],
             "answer": "Mookie Betts"
         },
         {
-            "question": "What was the first state?",
+            "question": "What was the first state of the United States?",
             "choices": ["Massachusetts", "New York", "California"],
             "answer": "Delaware"
         },
         {
-            "question": "Which country makes the most coffee",
+            "question": "Which country produces the most coffee?",
             "choices": ["Columbia", "Indonesia", "China"],
             "answer": "Brazil"
         },
@@ -91,12 +91,12 @@
             "answer": "Batman: The Video Game"
         },
         {
-            "question": "How fast is a cheetah while running",
+            "question": "How fast is a cheetah while running?",
             "choices": ["20mph", "30mph", "40mph"],
             "answer": "50mph"
         },
         {
-            "question": "What is blue in rgb",
+            "question": "What is the hex code of blue?",
             "choices": ["#00FF00","#6A5ACD","#7B68EE"],
             "answer": "#0000FF"
         },
@@ -116,14 +116,14 @@
            "answer": "SiO2"
         },
         {
-           "question": "Which of the following has the highest melting point?",
-           "choices": ["Fe", "NaCl", "C6H12O6"],
-           "answer": "SiO2"  
-        },
-        {
            "question": "Which of the following in NOT a city in Nebraska?",
            "choices": ["Omaha", "Nebraska City", "Lincoln"],
-           "answer": "Kansas City"  
+           "answer": "Crittenden"  
+        },
+        {
+           "question": "What is 'chocolate' in Spanish?",
+           "choices": ["chocolat", "chocolata", "chocolato"],
+           "answer": "chocolate"  
         }
     ]
 }
