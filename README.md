@@ -1,5 +1,5 @@
 # trivia-game-data
-data for trivia-game
+data for [https://github.com/troygamedev/bet-you-dont-know](Bet You Don't Know)
 
 ## Link to the API endpoint
 https://troygamedev.github.io/trivia-game-data/questions.json
