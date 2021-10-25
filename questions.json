@@ -1,24 +1,14 @@
 {
     "list" : [
         {
-            "question": "What's 9 + 10?",
-            "choices": ["21", "30", "18"],
-            "answer": "19"
-        },
-        {
-            "question": "What's 4 times 9?",
-            "choices": ["12", "42", "45"],
-            "answer": "36"
-        },
-        {
             "question": "Who was the 4th President of the United States?",
             "choices": ["John Quincy Adams", "John Adams", "Thomas Jefferson"],
             "answer": "James Madison"            
         },
         { 
             "question": "Which of these is a mammal?",
-            "choices": ["ant","frog", "shark"],
-            "answer": "dolphin" 
+            "choices": ["Ant","Frog", "Shark"],
+            "answer": "Dolphin" 
         },
         { 
             "question": "Where is the capital of France?",
@@ -31,9 +21,109 @@
             "answer": "Albert Einstein"
         },
         {
-            "question": "Blah blah question?",
-            "choices": ["Stephen Hawking", "Carl Sagan", "Neil Degrasse Tyson"],
-            "answer": "Albert Einstein"
+            "question": "When was anime created",
+            "choices": ["1925", "1901", "1914"],
+            "answer": "1917"
+        },
+        {
+            "question": "Who is the most subscribed VTuber as of April 2021?",
+            "choices": ["Gawr Gura", "Nyanners", "Korone"],
+            "answer": "Kizuna Ai"
+        },
+        {
+            "question": "What was the third gender in ancient Japanese society?",
+            "choices": ["Seiki", "Washou", "Genpuku"],
+            "answer": "Wakashu"
+        },
+        {
+            "question": "Who is the oldest living member of the Joestar family?",
+            "choices": ["Jotaro Kujo", "Jolyne Kujo", "Giorno Giovanna"],
+            "answer": "Joseph Joestar"
+        },        
+        {
+            "question": "When was Covid first discovered?",
+            "choices": ["69420", "2018", "2020"],
+            "answer": "2019"
+        },
+        {
+            "question": "What is the average lowest frequency the human ear can detect?",
+            "choices": ["0hz", "10hz", "40hz"],
+            "answer": "20hz"
+        },
+        {
+            "question": "Which Minecraft mob has the farthest viewing distance?",
+            "choices": ["Blaze", "Zombie", "Skeleton"],
+            "answer": "Enderman"
+        },
+        {
+            "question": "Who is the main male playable character in Minecraft?",
+            "choices": ["Satoru", "Alex", "Jesse"],
+            "answer": "Steve"
+        },
+        {
+          "question": "What is the biggest animal in the world?",
+          "choices":["Mouse", "African White Rhino", "Elephant" ],
+          "answer": "Blue Whale"
+        },
+        {
+            "question": "Which country consumes the most chocolate per capita?",
+            "choices": ["Sweden", "France", "United States"],
+            "answer": "Switzerland"
+        },
+        {
+            "question": "Who won the 2018 American League MVP award?",
+            "choices": ["Alex Bregman", "Jose Ramirez", "Mike Trout"],
+            "answer": "Mookie Betts"
+        },
+        {
+            "question": "What was the first state of the United States?",
+            "choices": ["Massachusetts", "New York", "California"],
+            "answer": "Delaware"
+        },
+        {
+            "question": "Which country produces the most coffee?",
+            "choices": ["Columbia", "Indonesia", "China"],
+            "answer": "Brazil"
+        },
+        {
+            "question": "What was the first ever Batman Game?",
+            "choices": ["Batman: Arkham Origins", "Batman: The Beginning", "Lego Batman"],
+            "answer": "Batman: The Video Game"
+        },
+        {
+            "question": "How fast is a cheetah while running?",
+            "choices": ["20mph", "30mph", "40mph"],
+            "answer": "50mph"
+        },
+        {
+            "question": "What is the hex code of blue?",
+            "choices": ["#00FF00","#6A5ACD","#7B68EE"],
+            "answer": "#0000FF"
+        },
+        {
+           "question": "What is the sum of all the numbers from 1 to 100?",
+           "choices": ["6969", "101", "1010"],
+           "answer": "5050"
+        },
+        {
+           "question": "How old do you have to be to get a drivers permit in the US?",
+           "choices": ["16 years", "16 months", "15 months"],
+           "answer": "15 years"
+        },
+        {
+           "question": "Which of the following has the highest melting point?",
+           "choices": ["Fe", "NaCl", "C6H12O6"],
+           "answer": "SiO2"
+        },
+        {
+           "question": "Which of the following in NOT a city in Nebraska?",
+           "choices": ["Omaha", "Nebraska City", "Lincoln"],
+           "answer": "Crittenden"  
+        },
+        {
+           "question": "What is 'chocolate' in Spanish?",
+           "choices": ["chocolat", "chocolata", "chocolato"],
+           "answer": "chocolate"  
         }
     ]
 }
