@@ -124,6 +124,11 @@
            "question": "What is 'chocolate' in Spanish?",
            "choices": ["chocolat", "chocolata", "chocolato"],
            "answer": "chocolate"  
+        },
+        {
+          "question": "Which of the following is a character in the hit anime K-ON!",
+           "choices": ["Hinata", "Aqua-chan", "Mikasa"],
+           "answer": "Ritsu"
         }
     ]
 }
